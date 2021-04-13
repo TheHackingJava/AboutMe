@@ -3,7 +3,7 @@
 
 ### How to reach me: <br>
 > ### **Send me a DM via** <br>
-> ### **[Discord](https://discordapp.com/users/601715164835741696)** <br>
+> ### **[Discord](https://discordapp.com/users/601715164835741696 "Send me a MESSAGE via DC")** <br>
 > [https://discordapp.com/users/601715164835741696] <br>
 > ### **[Reddit](https://www.reddit.com/user/JakeGame3)** <br>
 > ### **[Twitter](https://twitter.com/Jake_Game3)**
