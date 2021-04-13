@@ -1,7 +1,7 @@
 # AboutMe
 ## Hi I'm Jake and I code small stuff.
 
-### *Hi, I'm Jake and I adore coding new stuff. But I'm always learning how to improve my coding skills. If you have any input, anything, write to me.*
+### *Hi, I'm Jake and I adore coding new stuff. But I'm always learning how to improve my coding skills. If you have any input, anything, feel free to write to me.*
 
 ### How to reach me: <br>
 
