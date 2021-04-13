@@ -8,3 +8,4 @@
 > ### **[Reddit](https://www.reddit.com/user/JakeGame3)** <br>
 > ### **[Twitter](https://twitter.com/Jake_Game3)**
 ### Or start an issue in the "Issues" Tab
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
