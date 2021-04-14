@@ -11,10 +11,7 @@
 >[<img src="https://media.giphy.com/media/iFgzUCWgxj7B22ik2K/giphy.gif" width="200" height="100"/>](https://www.reddit.com/user/JakeGame3 "Send me a MESSAGE via Reddit") 
 >[<img src="https://techcrunch.com/wp-content/uploads/2014/06/twitter-rise.gif?w=1390&crop=1" width="100" height="100"/>](https://twitter.com/Jake_Game3 "Send me a MESSAGE via Twitter")<br>
 > ### **Or visit my website**
-[<img src="https://media.giphy.com/media/ZgTR3UQ9XAWDvqy9jv/giphy.gif" width="100" height="100"/>](https://jakegame.codes "VIEW MY WEBSITE!")
-<p align="center">
-  <img width="150" height="150" src="https://media.giphy.com/media/ZgTR3UQ9XAWDvqy9jv/giphy.gif">
-</p>
+> [<img src="https://media.giphy.com/media/ZgTR3UQ9XAWDvqy9jv/giphy.gif" width="100" height="100"/>](https://jakegame.codes "VIEW MY WEBSITE!")
 ### Or start an issue in the "Issues" Tab
 ****
 ### FOLLOW ME!
@@ -26,4 +23,6 @@
 ### STAR AND WATCH MY REPOSITORIES!
 #### [STAR AND WATCH THEM](https://github.com/JakeGame3?tab=repositories " Star and Watch")
 ****
-
+<p align="center">
+  <img width="150" height="150" src="https://media.giphy.com/media/ZgTR3UQ9XAWDvqy9jv/giphy.gif">
+</p>
